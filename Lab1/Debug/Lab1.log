@@ -1,0 +1,20 @@
+﻿D:\Visual Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Display.cpp
+  main.cpp
+  MainGame.cpp
+F:\Year 3\Trimester B\Graphics Programming\Submission\Graphics-Programming\Lab1\MainGame.cpp(18,9): warning C4930: 'Shader adsShader(void)': prototyped function not called (was a variable definition intended?)
+F:\Year 3\Trimester B\Graphics Programming\Submission\Graphics-Programming\Lab1\MainGame.cpp(15,9): warning C4930: 'Shader rimShader(void)': prototyped function not called (was a variable definition intended?)
+F:\Year 3\Trimester B\Graphics Programming\Submission\Graphics-Programming\Lab1\MainGame.cpp(17,9): warning C4930: 'Shader reflectShader(void)': prototyped function not called (was a variable definition intended?)
+F:\Year 3\Trimester B\Graphics Programming\Submission\Graphics-Programming\Lab1\MainGame.cpp(16,9): warning C4930: 'Shader geoShader(void)': prototyped function not called (was a variable definition intended?)
+F:\Year 3\Trimester B\Graphics Programming\Submission\Graphics-Programming\Lab1\MainGame.cpp(14,9): warning C4930: 'Shader toonShader(void)': prototyped function not called (was a variable definition intended?)
+F:\Year 3\Trimester B\Graphics Programming\Submission\Graphics-Programming\Lab1\MainGame.cpp(13,9): warning C4930: 'Shader fogShader(void)': prototyped function not called (was a variable definition intended?)
+  Mesh.cpp
+F:\Year 3\Trimester B\Graphics Programming\Submission\Graphics-Programming\Lab1\Mesh.cpp(62,9): warning C4930: 'Sphere meshSphere(void)': prototyped function not called (was a variable definition intended?)
+  obj_loader.cpp
+F:\Year 3\Trimester B\Graphics Programming\Submission\Graphics-Programming\Lab1\obj_loader.cpp(378,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Shader.cpp
+  SkyBox.cpp
+  Texture.cpp
+  Generating Code...
+  stb_image.c
+  Lab1.vcxproj -> F:\Year 3\Trimester B\Graphics Programming\Submission\Graphics-Programming\Debug\Lab1.exe
